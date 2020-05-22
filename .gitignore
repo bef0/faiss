@@ -7,6 +7,7 @@
 *.dylib
 *.pyc
 *~
+/depend
 /target
 /config.*
 /aclocal.m4
